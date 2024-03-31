@@ -7,9 +7,11 @@
   - Solving problems
   
 - 🌱 I’m currently learning ...
-  - Lisp
   - Design Patterns
   - The Pragmatic Programmer
+  - JavaScript
+  - TypeScript
+  - Python
   - C#
   - Angular
   - GraphQL
@@ -18,7 +20,7 @@
   - Cool projects and problems
   
 - 📫 How to reach me ...
-  - email... teams... 
+  - email... github...
   
 - ⚡ Fun fact: 
 
