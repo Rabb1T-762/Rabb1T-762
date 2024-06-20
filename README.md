@@ -7,6 +7,8 @@
   - Solving problems
   
 - 🌱 I’m currently learning ...
+  - Lisp
+  - Metaprogramming
   - Design Patterns
   - The Pragmatic Programmer
   - JavaScript
